@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Shiva Heydari 👋
 
-<!--
-**shivaheidari/shivaheidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & Machine Learning Engineer specializing in building impactful solutions for the healthcare industry. My passion is leveraging cutting-edge NLP and deep learning techniques to improve patient outcomes.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧠 **Currently working on:** Refining a clinical risk prediction model and exploring generative AI for clinical documentation.
+* 🌱 **Currently learning:** Advanced MLOps practices and multi-cloud deployment (AWS).
+* 📫 **How to reach me:** [linkedin.com/in/shiva-heydari/](https://www.linkedin.com/in/shiva-heydari/)
+---
+### My Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
