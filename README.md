@@ -27,6 +27,10 @@ I'm an AI & Machine Learning Engineer specializing in building impactful solutio
 | **Databases** | `MySQL`, `MongoDB` |
 | **Software Tools** | `Git`, `Jupyter` |
 
+### Let's Connect!
+
+I'm passionate about the intersection of AI and clinical practice and I'm always open to connecting with fellow researchers, engineers, and pioneers in the health tech space.
+
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
