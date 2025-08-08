@@ -16,6 +16,17 @@ I'm an AI & Machine Learning Engineer specializing in building impactful solutio
   </a>
 </p>
 
+### My Technical Toolbox
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | `Python`, `SQL` |
+| **ML/AI Frameworks** | `PyTorch`, `Scikit-learn`, `TensorFlow`, `NumPy`, `Pandas`, `spaCy` |
+| **NLP & LLMs** | `LangChain`, `LlamaIndex`, `Transformers`, `PEFT`, `RAG`, `BERT`, `Vector Databases` |
+| **Cloud & MLOps** | `AWS (SageMaker, ECS, EKS)`, `Docker`, `Kubernetes`, `Terraform`, `CI/CD` |
+| **Databases** | `MySQL`, `MongoDB` |
+| **Software Tools** | `Git`, `Jupyter` |
+
 ### My Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
