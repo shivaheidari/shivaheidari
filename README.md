@@ -1,4 +1,4 @@
-### Hi there, I'm Shiva Heydari 👋
+### Hi there, I'm Shiva 👋
 
 I'm an AI & Machine Learning Engineer specializing in building impactful solutions for the healthcare industry. My passion is leveraging cutting-edge NLP and deep learning techniques to improve patient outcomes.
 
